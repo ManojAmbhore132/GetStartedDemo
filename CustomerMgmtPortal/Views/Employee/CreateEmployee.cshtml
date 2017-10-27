@@ -1,0 +1,99 @@
+﻿@using CustomerMgmtPortal.ViewModel
+@model EmployeeVM
+@{
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+@section TitleSection
+{
+    CreateEmployee
+}
+
+@section HeaderSection
+{
+    <link rel="stylesheet" href="../../Content/jquery-ui.min.css">    
+    <link rel="stylesheet" href="../../Content/bootstrap.min.css">    
+    <script src="../../Scripts/jquery-1.12.4.js"></script>
+    <script src="../../Scripts/jquery-ui.min.js"></script>
+    <script src="~/Scripts/Validation.js"></script>
+    <script>
+        function ResetForm() {
+            document.getElementById('txtFName').value = "";
+            document.getElementById('txtLName').value = "";
+            document.getElementById('txtAge').value = "";
+            document.getElementById('txtEnrollDate').value = "";
+        }
+    </script>
+    <script>
+        $(function () {
+            $("#txtEnrollDate").datepicker();
+        });
+    </script>
+}
+@section ContentBody
+{
+    <form action="SaveEmployee" method="post">  
+        <div>            
+                <table class="table">
+                    <tr>
+                        <th colspan="3">Profile Information</th>
+                    </tr>
+                    <tr></tr>
+                    <tbody>
+                        <tr>                            
+                            <td><input type="text" id="txtFName" name="FirstName" placeholder="FirstName" value="" class="input-large" /></td>
+                            <td>@Html.ValidationMessage("FirstName")</td>                                                                                                            
+                            <td><input type="text" id="txtLName" name="LastName" value="" placeholder="LastName" class="input-large" /></td>
+                            <td>@Html.ValidationMessage("LastName")</td>                                                   
+                            <td><input type="text" id="txtAge" name="Age" value="" placeholder="Age" class="input-large" /></td>
+                            <td>@Html.ValidationMessage("Age")</td>                                                   
+                            <td><input type="text" id="txtEnrollDate" name="EnrollmentDate" value="" placeholder="EnrollmentDate" class="input-large" /></td>
+                            <td>@Html.ValidationMessage("EnrollmentDate")</td>
+                        </tr>
+                    </tbody>                   
+                </table> 
+                <table class="table">
+                    <tr>
+                        <th colspan="3">Phone Information</th>
+                    </tr>
+                    <tr></tr>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input class="input-large" placeholder="Work Number" />
+                            </td> 
+                            <td>
+                                <input class="input-large" placeholder="Personal Number" />
+                            </td>                            
+                        </tr>
+                    </tbody>
+                    </table>               
+                <table class="table">
+                    <tr><th colspan="5">Address Information</th></tr>
+                    <tbody>                        
+                        <tr>
+                            <td>
+                                <input class="input-large" placeholder="Address Line1" />
+                                <p style="padding-top: 5px;"><input class="input-large" placeholder="State" /></p>
+                            </td>
+                            <td>
+                                <input class="input-large" placeholder="Address Line2" />
+                                <p style="padding-top: 5px;"><input class="input-large"  placeholder="Country" /></p>
+                            </td>
+                            <td>
+                                <input class="input-large" placeholder="City" />
+                                <p style="padding-top: 5px;">
+                                    <input class="input-large" placeholder="Zip Code" />                                    
+                                </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>                               
+                    <div class="modal-footer">
+                        <input type="submit" name="btnSave" value="Save" class="btn btn-small btn-success" onclick="return IsValid();" />
+                        <input type="button" name="btnReset" value="Reset" class="btn btn-small btn-primary" onclick="ResetForm();" />
+                        <input type="submit" name="btnSave" value="Cancel" class="btn btn-small btn-primary" />
+                    </div>
+      </div>
+</form>
+}

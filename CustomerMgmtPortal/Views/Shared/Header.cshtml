@@ -1,0 +1,11 @@
+﻿@using CustomerMgmtPortal.ViewModel
+@model HeaderVM
+
+<div style="text-align: center; text-decoration-color:brown; font-weight:bold; font-size: 30px">
+    @Model.Desc
+</div>
+<div style="text-align: right; text-decoration-color:brown;font-size:15px">    
+    Hello, @Model.UserName
+    <a href="/Authentication/Logout">Logout</a>
+</div>
+<hr />

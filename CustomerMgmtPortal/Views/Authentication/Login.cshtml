@@ -1,0 +1,40 @@
+﻿@model CustomerMgmtPortal.Models.UserDetails
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="../../Content/bootstrap.min.css">  
+</head>
+<body>
+    <div>    
+    @using (Html.BeginForm("DoLogin", "Authentication", FormMethod.Post))
+    {
+        <div style="text-align: center; text-decoration-color:brown; font-weight:bold;font-size:30px">
+            Customer Mgmt Portal
+        </div>
+            <fieldset style="width:390px; margin: 20px auto">
+                <legend>Login Form</legend>                   
+                    <div class="editor-label">@Html.LabelFor(c => c.UserName)</div>
+                    <div class="editor-field">@Html.TextBoxFor(c => c.UserName)
+                        @Html.ValidationMessageFor(c => c.UserName)
+                    </div>
+                <br/>
+                    <div class="editor-label">@Html.LabelFor(c => c.Password)</div>
+                    <div class="editor-field">@Html.TextBoxFor(c => c.Password)
+                          @Html.ValidationMessageFor(c => c.Password)
+                   </div>
+                <br />
+                   <input type="submit" name="btnSubmit" value="Login" class="btn btn-small btn-success" />
+                @Html.ValidationMessage("CredentialError", new { style = "color: red" })
+            </fieldset>
+
+     }
+    </div>
+</body>
+</html>

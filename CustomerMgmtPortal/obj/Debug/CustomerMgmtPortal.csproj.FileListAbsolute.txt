@@ -1,0 +1,126 @@
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\ApplicationInsights.config
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\csc.exe
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\System.Collections.Immutable.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\vbc.exe
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\VBCSCompiler.exe
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\VBCSCompiler.exe.config
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.dll.config
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.pdb
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Antlr3.Runtime.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.SqlServer.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\itextsharp.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.DependencyCollector.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Web.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.WindowsServer.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.ApplicationInsights.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.Web.Infrastructure.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Newtonsoft.Json.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.Mvc.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Helpers.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Mvc.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Optimization.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Razor.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Deployment.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Razor.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\WebGrease.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.SqlServer.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\itextsharp.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.DependencyCollector.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Web.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.WindowsServer.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.ApplicationInsights.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.Mvc.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Helpers.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Mvc.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Optimization.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Razor.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Deployment.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Razor.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Antlr3.Runtime.pdb
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Newtonsoft.Json.xml
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.dll
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.pdb
+E:\Daily\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.csprojResolveAssemblyReference.cache
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\ApplicationInsights.config
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\csc.exe
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\System.Collections.Immutable.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\vbc.exe
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\VBCSCompiler.exe
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\roslyn\VBCSCompiler.exe.config
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.dll.config
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\CustomerMgmtPortal.pdb
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Antlr3.Runtime.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.SqlServer.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\itextsharp.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.DependencyCollector.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Web.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.WindowsServer.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.ApplicationInsights.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.Web.Infrastructure.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Newtonsoft.Json.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.Mvc.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Helpers.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Mvc.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Optimization.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Razor.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Deployment.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Razor.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\WebGrease.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\EntityFramework.SqlServer.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\itextsharp.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.DependencyCollector.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.Web.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.AI.WindowsServer.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.ApplicationInsights.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\PagedList.Mvc.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Helpers.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Mvc.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Optimization.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.Razor.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Deployment.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\System.Web.WebPages.Razor.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Antlr3.Runtime.pdb
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\bin\Newtonsoft.Json.xml
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.csprojResolveAssemblyReference.cache
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.dll
+E:\Daily STUDY\Project\CustomerMgmtPortal\CustomerMgmtPortal\obj\Debug\CustomerMgmtPortal.pdb
